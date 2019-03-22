@@ -7,6 +7,10 @@ React Study JAM Slides and workshop materials
 
 ### UI Libraries
 
+### State Management
+
+### API Clients ( think of a better term ) 
+
 ### React Native
 
 ### Backend Options
