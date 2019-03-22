@@ -5,7 +5,7 @@ React Study JAM Slides and workshop materials
 
 ### Overview
 
-### UI Libraries
+### UI/Components Libraries
 
 ### State Management
 
