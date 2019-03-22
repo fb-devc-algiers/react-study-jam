@@ -12,3 +12,5 @@ React Study JAM Slides and workshop materials
 ### Backend Options
 
 ### Testing and Debugging
+
+### Resources and Docs
