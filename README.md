@@ -8,9 +8,13 @@ React Study JAM Slides and workshop materials
 
 * What is React?
 
-* Main Concepts.
+* Main Concepts(JSX, State, Props,...).
 
 ### UI/Components Libraries
+
+* Library selection strategy.
+
+* Libraries: Material UI, React Bootstrap, ant-design,...
 
 ### State Management
 
