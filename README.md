@@ -1,9 +1,14 @@
 # React Study JAM
+
 React Study JAM Slides and workshop materials
 
 ## React Ecosystem Presentation
 
 ### Overview
+
+* What is React?
+
+* Main Concepts.
 
 ### UI/Components Libraries
 
