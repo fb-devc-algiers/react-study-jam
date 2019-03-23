@@ -12,9 +12,9 @@ React Study JAM Slides and workshop materials
 
 ### UI/Components Libraries
 
-* Library selection strategy.
+* Why UI Library?
 
-* Libraries: Material UI, React Bootstrap, ant-design,...
+* Library selection strategy.
 
 ### State Management
 
