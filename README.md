@@ -7,8 +7,13 @@ React Study JAM Slides and workshop materials
 ### Overview
 
 * What is React?
+  * JS UI Library, Components based, Refreshing when data change.
+  * Used by: Facebook, Instagram, Netflix, New York Times, Khan Academy,...
 
-* Main Concepts(JSX, State, Props,...).
+* Main Concepts
+  * JSX
+  * State
+  * Props
 
 ### UI/Components Libraries
 
@@ -61,3 +66,8 @@ React Study JAM Slides and workshop materials
 * Best Youtube Channels for React.
 
 * Linkedin Learning.
+
+### References
+
+* [Sites using react](https://github.com/facebook/react/wiki/Sites-Using-React).  
+
