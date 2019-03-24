@@ -18,14 +18,29 @@ React Study JAM Slides and workshop materials
 ### UI/Components Libraries
 
 * Why UI Library?
+  * Fast.
+  * Reliable.
 
-* Library selection strategy.
+* Library selection strategy
+  * Popularity on Github: Stars, Forks and Teams size.
+  * Repo Activity.
+  * Downloads on npm.
+
+* Main Libraries
+  * [Material UI](https://material-ui.com/): 45,422 stars, 1,174 contributors, 182,719 npm weekly downloads.
+  * [Ant Design](https://ant.design/): 44.077 stars, 786 contributors, 284,468 npm weekly downloads.
 
 ### React Native
 
-* Build **cross platform** mobile apps.
+* Build **cross platform** mobile apps
+  * Render using **native** UI components.
+  * Native Apis bridge.
+  * Powered by React and JS.
 
 * Requirements to start React Native Projet.
+  * Install the Platform SDK.
+  * Intall the platform Emulator.
+  * Set the configuration files.
 
 ### Backend Options
 
